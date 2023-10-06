@@ -1,0 +1,8 @@
+require("core.plugin_config.gruvbox")
+require("core.plugin_config.lualine")
+require("core.plugin_config.nvim-treesitter")
+require("core.plugin_config.nvim_tree")
+require("core.plugin_config.telescope")
+require("core.plugin_config.cmp")
+require("core.plugin_config.lsp")
+require("core.plugin_config.file_browser")
